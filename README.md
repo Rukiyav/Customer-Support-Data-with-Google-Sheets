@@ -24,7 +24,11 @@ How It Works
 -------------
 
 1.create new tabs and enter raw data into the Google Sheet
+
 2.add formulas to the sheet in order to gain useful information from the raw data.
+
 3.use the data validation tool within Google Sheets to include how to add check boxes and drop downs within the cells.
+
 4.summarize the raw data to create a dashboard.  The dashboard will provide a snapshot of the company's performance.
+
 5.finalized the dashboard 
