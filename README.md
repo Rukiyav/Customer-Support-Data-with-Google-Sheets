@@ -11,8 +11,9 @@ build a Google Sheet that transforms a business's raw customer support data into
 
 *Project Description:
 --------------------
-*No. Of. Engineers: 1
-*Tool: Google sheets
+%No. Of. Engineers: 1
+
+%Tool: Google sheets
 
 What Is This?
 ----------------
